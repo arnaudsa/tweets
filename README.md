@@ -1,7 +1,12 @@
 # tweets
 
-**```Criando a imagem docker```**
+### Build
+No diretório raiz do projeto executar os seguintes comandos.
+
+```sh
+$ mvn clean install
 ```
+
 No diretório raiz do projeto temos o arquivo Dockerfile, execute o comando abaixo para criar 
 a imagem docker.
 ```
