@@ -2,7 +2,7 @@
 
 ### Build
 ```
-**No diretório raiz do projeto executar os seguintes comandos.
+**No diretório raiz do projeto executar os seguintes comandos.**
 
 $ mvn clean install
 $ docker build -t tweets .
