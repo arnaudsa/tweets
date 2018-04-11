@@ -21,5 +21,11 @@ No browser acessar a url http://localhost:8080
 ```
 
 
-### Framework e Tecnologias
-* SpringFramework
+### Tecnologias Utilizadas
+* Java 1.8
+* SpringFramework - Injeção de dependências, Rest
+* Jackson - Serialização e Deserialização de objetos (JSON)
+* Junit - testes unitários
+* Mock Server - Mocar a chamada de serviços rest
+
+
