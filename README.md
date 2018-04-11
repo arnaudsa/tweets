@@ -4,13 +4,14 @@
 No diretório raiz do projeto executar os seguintes comandos.
 
 ```sh
-$ mvn clean install
-$ docker build -t tweets .
+- $ mvn clean install
+- $ docker build -t tweets .
+
+Para verificar se a imagem tweets foi criada execute o comando.
+$ docker images
 
 ```
-```sh
-127.0.0.1:8000
-```
+
 No diretório raiz do projeto temos o arquivo Dockerfile, execute o comando abaixo para criar 
 a imagem docker.
 ```
