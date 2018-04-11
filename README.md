@@ -2,13 +2,13 @@
 
 **```Criando a imagem docker```**
 ```
-No diretório raiz do projeto temos o arquivo Dockerfile, execute o comando ```  docker build -t tweets .  
+No diretório raiz do projeto temos o arquivo Dockerfile, execute o comando   
 para criar a imagem docker.
-
+```
 Java 8
 Maven 3
 Lombok 1.16
-```
+
 
 **```Build```**
 ```java
