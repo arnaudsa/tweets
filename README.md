@@ -8,6 +8,7 @@
 * Mock Server - Mocar a chamada de serviços rest
 * Lombok - Gerar getters, setters, builders
 * Swagger - Documentação da API
+* Jacoco - Cobertura de testes
 
 
 ### Build
