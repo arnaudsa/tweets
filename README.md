@@ -1,9 +1,9 @@
 # tweets
 
 ### Build
+```
 No diretório raiz do projeto executar os seguintes comandos.
 
-```sh
 $ mvn clean install
 $ docker build -t tweets .
 
