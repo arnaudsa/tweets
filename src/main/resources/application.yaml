@@ -1,0 +1,7 @@
+endpoints:
+  twitter:
+    username: arnaudsalves@gmail.com
+    host: http://tweeps.locaweb.com.br
+    timeOut: 5000
+    urls:
+      tweeps: /tweeps

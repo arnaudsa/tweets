@@ -1,0 +1,7 @@
+endpoints:
+  twitter:
+    username: arnaudsalves@gmail.com
+    host: http://localhost:1080
+    timeOut: 5000
+    urls:
+      tweeps: /tweeps
