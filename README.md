@@ -5,6 +5,8 @@ No diretório raiz do projeto executar os seguintes comandos.
 
 ```sh
 $ mvn clean install
+$ docker build -t tweets .
+
 ```
 
 No diretório raiz do projeto temos o arquivo Dockerfile, execute o comando abaixo para criar 
