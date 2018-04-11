@@ -4,10 +4,10 @@
 No diretório raiz do projeto executar os seguintes comandos.
 
 ```sh
- $ mvn clean install
- $ docker build -t tweets .
+$ mvn clean install
+$ docker build -t tweets .
 
-Para verificar se a imagem tweets foi criada execute o comando.
+#### Para verificar se a imagem tweets foi criada execute o comando.
 $ docker images
 
 ```
