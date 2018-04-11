@@ -2,7 +2,7 @@
 
 **```Criando a imagem docker```**
 ```
-No diretório raiz do projeto temos o arquivo Dockerfile, execute o comando para criar a imagem docker.
+No diretório raiz do projeto temos o arquivo Dockerfile, execute o comando abaixo para criar a imagem docker.
 ```
 Java 8
 Maven 3
