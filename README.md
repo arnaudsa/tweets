@@ -22,7 +22,4 @@ No browser acessar a url http://localhost:8080
 
 
 ### Framework e Tecnologias
-```
-
-```
-**No diretório raiz do projeto executar os seguintes comandos.**
+* SpringFramework
