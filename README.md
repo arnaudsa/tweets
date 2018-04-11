@@ -2,7 +2,7 @@
 
 ### Build
 ```
-**No diretório raiz do projeto executar os seguintes comandos.**
+No diretório raiz do projeto executar os seguintes comandos.
 
 $ mvn clean install
 $ docker build -t tweets .
@@ -25,3 +25,4 @@ No browser acessar a url http://localhost:8080
 ```
 
 ```
+**No diretório raiz do projeto executar os seguintes comandos.**
