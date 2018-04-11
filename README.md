@@ -15,4 +15,7 @@ $ docker images
 ### Executando a aplicação
 ```
 $ docker run -p 8080:8080 -d tweets:latest
+
+No browser acessar a url http://localhost:8080
+
 ```
